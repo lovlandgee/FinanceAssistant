@@ -1,0 +1,34 @@
+date,amount,category,description
+2025-09-01,92000,income,Payroll September
+2025-09-03,-45.50,Coffee,Morning latte
+2025-09-05,-1350.00,Groceries,Weekly shop
+2025-09-07,-89.99,Subscriptions,Cloud storage
+2025-09-10,-2200.00,Housing,Rent payment
+2025-09-12,-650.00,Transport,Monthly transit pass
+2025-09-15,-1800.00,Dining,Team dinner
+2025-09-18,-320.00,Healthcare,Clinic visit
+2025-09-20,-12500.00,Savings,Broker transfer
+2025-09-22,-410.00,Shopping,Online order
+2025-09-25,-980.00,Utilities,Electricity bill
+2025-09-28,-2100.00,Groceries,Bulk purchase
+2025-10-01,92000,income,Payroll October
+2025-10-04,-1200.00,Groceries,Supermarket
+2025-10-06,-2200.00,Housing,Rent payment
+2025-10-08,-89.99,Subscriptions,Cloud storage
+2025-10-11,-75.00,Coffee,Cafes
+2025-10-14,-1500.00,Dining,Restaurant
+2025-10-16,-890.00,Transport,Fuel
+2025-10-19,-450.00,Healthcare,Pharmacy
+2025-10-22,-1050.00,Utilities,Internet
+2025-10-25,-3500.00,Groceries,Large one-off purchase appliances
+2025-10-28,-600.00,Shopping,Books
+2025-11-01,92000,income,Payroll November
+2025-11-03,-2200.00,Housing,Rent payment
+2025-11-05,-89.99,Subscriptions,Cloud storage
+2025-11-08,-1650.00,Groceries,Midweek groceries
+2025-11-12,-2400.00,Dining,Holiday dinner
+2025-11-15,-720.00,Transport,Taxi rides
+2025-11-18,-1100.00,Utilities,Heating prepayment
+2025-11-22,-8000.00,Savings,Year-end savings
+2025-11-25,-1900.00,Groceries,Pre-holiday shop
+2025-11-28,-950.00,Coffee,Office coffee month total
